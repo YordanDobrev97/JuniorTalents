@@ -27,7 +27,7 @@ const Home: NextPage = () => {
       </header>
       <main className={styles.main}>        
         <h1 className={styles.title}>
-          Джуниър Таланти
+          <span className={styles['junior']}>Джуниър</span> <span className={styles['talents']}>Таланти</span>
         </h1>
 
         <p>Топ джуниъри събрани на едно място</p>
