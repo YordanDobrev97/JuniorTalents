@@ -17,6 +17,13 @@
   list-style-type: none;
 }
 
+.junior {
+  color: orange;
+}
+
+.talents {
+  color: rgb(62, 62, 216);
+}
 
 .footer {
   display: flex;

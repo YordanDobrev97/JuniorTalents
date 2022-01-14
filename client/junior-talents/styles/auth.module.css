@@ -1,0 +1,32 @@
+
+.auth-container {
+  width: 30%;
+  margin: 80px auto;
+  font-size: 20px;
+}
+
+.inset {
+  padding: 50px;
+  margin: 10px 0;
+}
+
+.inset p {
+  text-align: center;
+}
+
+.auth-form {
+  background: #36314691;
+}
+
+.input, .input:focus {
+  margin: 18px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 2px solid rgb(6, 84, 202);
+  font-size: 20px;
+}
+
+.input:focus {
+  color: white;
+}
